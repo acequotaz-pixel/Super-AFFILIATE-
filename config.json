@@ -1,0 +1,9 @@
+{
+ "bot_token":"PASTE_TOKEN",
+ "openai_api_key":"PASTE_KEY",
+ "affiliate_links":{
+   "chatgpt":"https://your-link.com",
+   "canva":"https://your-link.com",
+   "midjourney":"https://your-link.com"
+ }
+}
